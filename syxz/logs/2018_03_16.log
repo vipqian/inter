@@ -1,0 +1,24 @@
+2018-03-16 15:52:44,984 test_002.py[line: 21] INFO: ----start----
+2018-03-16 15:52:45,352 test_002.py[line: 23] INFO: 调用登录结果：{'message': '验证码缓存已失效', 'success': False}
+2018-03-16 15:52:45,352 test_002.py[line: 24] INFO: 获取是否登录成功：False
+2018-03-16 15:52:45,352 test_add.py[line: 11] INFO: -----test start add ------
+2018-03-16 15:52:45,353 test_add.py[line: 13] INFO: -----test end add---------
+2018-03-16 15:52:45,353 test_01.py[line: 20] INFO: ----start----
+2018-03-16 15:52:45,534 test_01.py[line: 22] INFO: 调用登录结果：{'message': '验证码缓存已失效', 'success': False}
+2018-03-16 15:52:45,535 test_01.py[line: 23] INFO: 获取是否登录成功：False
+2018-03-16 17:06:59,269 test_002.py[line: 21] INFO: ----start----
+2018-03-16 17:06:59,676 test_002.py[line: 23] INFO: 调用登录结果：{'message': '验证码缓存已失效', 'success': False}
+2018-03-16 17:06:59,677 test_002.py[line: 24] INFO: 获取是否登录成功：False
+2018-03-16 17:06:59,679 test_add.py[line: 13] INFO: -----test start add ------
+2018-03-16 17:06:59,679 test_add.py[line: 15] INFO: -----test end add---------
+2018-03-16 17:06:59,680 test_01.py[line: 20] INFO: ----start----
+2018-03-16 17:06:59,855 test_01.py[line: 22] INFO: 调用登录结果：{'message': '验证码缓存已失效', 'success': False}
+2018-03-16 17:06:59,855 test_01.py[line: 23] INFO: 获取是否登录成功：False
+2018-03-16 17:08:40,271 test_002.py[line: 21] INFO: ----start----
+2018-03-16 17:08:40,650 test_002.py[line: 23] INFO: 调用登录结果：{'success': False, 'message': '验证码缓存已失效'}
+2018-03-16 17:08:40,651 test_002.py[line: 24] INFO: 获取是否登录成功：False
+2018-03-16 17:08:40,651 test_add.py[line: 13] INFO: -----test start add ------
+2018-03-16 17:08:40,651 test_add.py[line: 15] INFO: -----test end add---------
+2018-03-16 17:08:40,651 test_01.py[line: 20] INFO: ----start----
+2018-03-16 17:08:40,834 test_01.py[line: 22] INFO: 调用登录结果：{'success': False, 'message': '验证码缓存已失效'}
+2018-03-16 17:08:40,835 test_01.py[line: 23] INFO: 获取是否登录成功：False
