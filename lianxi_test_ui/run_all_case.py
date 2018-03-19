@@ -83,8 +83,6 @@ def send_mail():
     port = conf.get('email', 'port')
     receiver = conf.get('email', 'receiver')
     # receiver = receiver.split(',')
-
-
     time.sleep(2)
     report_file = get_report_file()
     with open(report_file, 'rb') as f:
@@ -113,5 +111,5 @@ def send_mail():
 
 
 if __name__ == '__main__':
-    run_case()
+    # run_case()
     send_mail()
