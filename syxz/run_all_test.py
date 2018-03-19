@@ -65,6 +65,7 @@ def send_mail(sender, psw, receiver, smtpserver, report_file, port):
     with open(report_file, 'rb') as f:
         mail_body = f.read()
 
+
     # 定义邮件内容
         # 定义邮件内容
         msg = MIMEMultipart()
