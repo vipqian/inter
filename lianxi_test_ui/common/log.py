@@ -62,6 +62,5 @@ class LogSignleton(object):
             rt_file_handler.setFormatter(formatter)
             self.logger.addHandler(rt_file_handler)
             self.logger.setLevel(self.log_level_in_logfile)
-logsignleton = LogSignleton(r'F:\F_lianxi\lianxi_test_ui\config\config.ini')
+logsignleton = LogSignleton(r'F:/aaaa/lianxi_test_ui/config/config.ini')
 logger = logsignleton.get_logger()
-logger.info('1')

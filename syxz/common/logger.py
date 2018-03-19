@@ -66,6 +66,6 @@ class LogSignleton(object):
             self.logger.addHandler(rt_file_handler)
             self.logger.setLevel(self.log_level_in_logfile)
 
-logsignleton = LogSignleton(r'D:\syxz\config\config.ini')
+logsignleton = LogSignleton(r'F:\aaaa\syxz\config\config.ini')
 logger = logsignleton.get_logger()
 
