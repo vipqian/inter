@@ -1,4 +1,38 @@
-2018-03-19 16:39:08,106 test_alert.py[line: 25] INFO: 测试开始
-2018-03-19 16:39:09,252 test_alert.py[line: 29] INFO: 测试结束
-2018-03-19 17:41:19,373 element.py[line: 16] INFO: 测试开始
-2018-03-19 17:41:25,202 element.py[line: 43] INFO: 测试结束
+2018-03-19 17:49:21,328 test_login.py[line: 27] INFO: 测试开始
+2018-03-19 17:49:30,081 test_login.py[line: 52] INFO: 测试的数据为：{'password ': 123456.0, 'result': 1.0, 'name': 13944096337.0}
+2018-03-19 17:49:30,082 test_login.py[line: 66] INFO: 错误信息为:'password'
+2018-03-19 17:49:32,745 test_login.py[line: 52] INFO: 测试的数据为：{'password ': 111111.0, 'result': 0.0, 'name': 13944096337.0}
+2018-03-19 17:49:32,745 test_login.py[line: 66] INFO: 错误信息为:'password'
+2018-03-19 17:49:33,147 test_login.py[line: 32] INFO: 测试结束
+2018-03-19 17:51:13,225 test_login.py[line: 27] INFO: 测试开始
+2018-03-19 17:51:21,725 test_login.py[line: 52] INFO: 测试的数据为：{'name': 13944096337.0, 'result': 1.0, 'password ': 123456.0}
+2018-03-19 17:51:21,726 test_login.py[line: 66] INFO: 错误信息为:'password'
+2018-03-19 17:51:24,321 test_login.py[line: 52] INFO: 测试的数据为：{'name': 13944096337.0, 'result': 0.0, 'password ': 111111.0}
+2018-03-19 17:51:24,321 test_login.py[line: 66] INFO: 错误信息为:'password'
+2018-03-19 17:51:24,608 test_login.py[line: 32] INFO: 测试结束
+2018-03-19 17:52:19,749 test_login.py[line: 27] INFO: 测试开始
+2018-03-19 17:52:26,096 test_login.py[line: 52] INFO: 测试的数据为：{'password ': 123456.0, 'name': 13944096337.0, 'result': 1.0}
+2018-03-19 17:52:30,463 test_login.py[line: 52] INFO: 测试的数据为：{'password ': 111111.0, 'name': 13944096337.0, 'result': 0.0}
+2018-03-19 17:52:30,708 test_login.py[line: 32] INFO: 测试结束
+2018-03-19 18:01:23,586 test_login.py[line: 27] INFO: 测试开始
+2018-03-19 18:01:30,148 test_login.py[line: 52] INFO: 测试的数据为：{'result': '1', 'password ': '123456', 'name': '13944096337'}
+2018-03-19 18:01:32,940 test_login.py[line: 52] INFO: 测试的数据为：{'result': '0', 'password ': '111111', 'name': '13944096337'}
+2018-03-19 18:01:33,211 test_login.py[line: 32] INFO: 测试结束
+2018-03-19 18:04:33,232 test_login.py[line: 27] INFO: 测试开始
+2018-03-19 18:04:39,684 test_login.py[line: 52] INFO: 测试的数据为：{'result': '1', 'name': '13944096337', 'password ': '123456'}
+2018-03-19 18:04:39,684 test_login.py[line: 66] INFO: 错误信息为:'password'
+2018-03-19 18:04:42,607 test_login.py[line: 52] INFO: 测试的数据为：{'result': '0', 'name': '13944096337', 'password ': '111111'}
+2018-03-19 18:04:42,607 test_login.py[line: 66] INFO: 错误信息为:'password'
+2018-03-19 18:04:43,065 test_login.py[line: 32] INFO: 测试结束
+2018-03-19 18:07:46,111 test_login.py[line: 27] INFO: 测试开始
+2018-03-19 18:07:46,117 test_login.py[line: 32] INFO: 测试结束
+2018-03-19 18:08:29,570 test_login.py[line: 27] INFO: 测试开始
+2018-03-19 18:08:29,574 test_login.py[line: 69] INFO: 错误信息为:'password'
+2018-03-19 18:08:29,579 test_login.py[line: 69] INFO: 错误信息为:'password'
+2018-03-19 18:08:29,582 test_login.py[line: 32] INFO: 测试结束
+2018-03-19 18:09:07,453 test_login.py[line: 27] INFO: 测试开始
+2018-03-19 18:09:07,454 test_login.py[line: 32] INFO: 测试结束
+2018-03-19 18:09:51,868 test_login.py[line: 27] INFO: 测试开始
+2018-03-19 18:09:58,888 test_login.py[line: 53] INFO: 测试的数据为：{'name': '13944096337', 'result': '1', 'password': '123456'}
+2018-03-19 18:10:09,665 test_login.py[line: 53] INFO: 测试的数据为：{'name': '13944096337', 'result': '0', 'password': '111111'}
+2018-03-19 18:10:20,445 test_login.py[line: 32] INFO: 测试结束

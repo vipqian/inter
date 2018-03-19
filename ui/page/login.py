@@ -1,8 +1,8 @@
 # coding=utf-8
 
-from lianxi_ui_interface.common.find_element import FindElement, browser
+from ui.common.find_element import FindElement, browser
 login_url = "https://mydev.100szy.com/#/login"
-import time
+# import time
 
 
 class LoginPage(FindElement):
