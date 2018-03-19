@@ -1,39 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea85f02d-9590-4f4f-a396-27f81f56a5ba" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/aaaa.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi_test_ui/page/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lianxi_test_ui/page/login.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syxz/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syxz/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syxz/.idea/syxz.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syxz/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syxz/case/home/test_002.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syxz/case/home/test_add.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syxz/case/test_01.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syxz/common/HTMLTestRunner.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syxz/common/HTMLTestRunner_jpg.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syxz/common/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syxz/common/logger.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syxz/config/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syxz/config/cfg.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syxz/config/config.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syxz/config/readConfig.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syxz/logs/2018_03_19.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syxz/public/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syxz/public/login.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syxz/report/2018_03_19_15_19_15result.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syxz/run_all_test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syxz/test/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/syxz/test/test_01.py" afterPath="" />
+    <list id="ea85f02d-9590-4f4f-a396-27f81f56a5ba" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/syxz/config/config.ini" afterPath="$PROJECT_DIR$/syxz/config/config.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/syxz/logs/2018_03_19.log" afterPath="$PROJECT_DIR$/syxz/logs/2018_03_19.log" />
     </list>
     <list id="6682632f-8c92-4db4-b103-ecb1b52f3478" name="Revert: first" comment="" />
-    <list id="1535d468-f596-4ecb-a8cb-95cf0606fe4f" name="Revert: 土地法上看到" comment="" />
+    <list default="true" id="1535d468-f596-4ecb-a8cb-95cf0606fe4f" name="Revert: 土地法上看到" comment="1">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,57 +17,50 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/aaaa$run_all_test.coverage" NAME="run_all_test Coverage Results" MODIFIED="1521443955063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/syxz" />
+    <SUITE FILE_PATH="coverage/aaaa$loger.coverage" NAME="loger Coverage Results" MODIFIED="1521447334687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianxi_ui_interface/common" />
+    <SUITE FILE_PATH="coverage/aaaa$run_all_test.coverage" NAME="run_all_test Coverage Results" MODIFIED="1521447280018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/syxz" />
+    <SUITE FILE_PATH="coverage/aaaa$run_all_case__1_.coverage" NAME="run_all_case (1) Coverage Results" MODIFIED="1521447747287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianxi_ui_interface" />
     <SUITE FILE_PATH="coverage/aaaa$log.coverage" NAME="log Coverage Results" MODIFIED="1521426868956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianxi_test_ui/common" />
     <SUITE FILE_PATH="coverage/aaaa$run_all_case.coverage" NAME="run_all_case Coverage Results" MODIFIED="1521429378692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianxi_test_ui" />
+    <SUITE FILE_PATH="coverage/aaaa$Unittests_in_test_login_py.coverage" NAME="Unittests in test_login.py Coverage Results" MODIFIED="1521447726083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianxi_ui_interface/case/xinzhi" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="run_all_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/syxz/run_all_test.py">
+      <file leaf-file-name="run_all_case.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lianxi_ui_interface/run_all_case.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="91" column="26" lean-forward="false" selection-start-line="91" selection-start-column="26" selection-end-line="91" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lianxi_test_ui.iml" pinned="false" current-in-tab="true">
-        <entry file="vcs://F:/aaaa/lianxi_test_ui/.idea/lianxi_test_ui.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="-1765">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_01.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/syxz/case/test_01.py">
+      <file leaf-file-name="loger.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lianxi_ui_interface/common/loger.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+            <state relative-caret-position="552">
+              <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="logger.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/syxz/common/logger.py">
+      <file leaf-file-name="test_login.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lianxi_ui_interface/case/xinzhi/test_login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+            <state relative-caret-position="65">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="configparser.py" pinned="false" current-in-tab="false">
-        <entry file="file://C:/Python35/Lib/configparser.py">
+      <file leaf-file-name="login.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lianxi_ui_interface/page/login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="1135" column="0" lean-forward="false" selection-start-line="1135" selection-start-column="0" selection-end-line="1135" selection-end-column="0" />
+            <state relative-caret-position="38">
+              <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -125,6 +93,10 @@
         <option value="$PROJECT_DIR$/lianxi_test_ui/run_all_case.py" />
         <option value="$PROJECT_DIR$/lianxi_test_ui/config/email.ini" />
         <option value="$PROJECT_DIR$/lianxi_test_ui/page/login.py" />
+        <option value="$PROJECT_DIR$/syxz/config/config.ini" />
+        <option value="$PROJECT_DIR$/lianxi_ui_interface/page/login.py" />
+        <option value="$PROJECT_DIR$/lianxi_ui_interface/case/xinzhi/test_login.py" />
+        <option value="$PROJECT_DIR$/lianxi_ui_interface/common/loger.py" />
       </list>
     </option>
   </component>
@@ -163,6 +135,17 @@
             <path>
               <item name="aaaa" type="b2602c69:ProjectViewProjectNode" />
               <item name="aaaa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aaaa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aaaa" type="462c0819:PsiDirectoryNode" />
+              <item name="lianxi_ui_interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aaaa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aaaa" type="462c0819:PsiDirectoryNode" />
+              <item name="lianxi_ui_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -304,21 +287,54 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.run_all_test">
-    <configuration name="log" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.run_all_case (1)">
+    <configuration name="Unittests in test_login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lianxi_ui_interface/case/xinzhi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="aaaa" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/lianxi_ui_interface/case/xinzhi/test_login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="loger" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lianxi_test_ui/common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lianxi_ui_interface/common" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="aaaa" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lianxi_test_ui/common/log.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lianxi_ui_interface/common/loger.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="run_all_case (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lianxi_ui_interface" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="aaaa" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lianxi_ui_interface/run_all_case.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -359,16 +375,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Python.log" />
-      <item index="1" class="java.lang.String" itemvalue="Python.run_all_case" />
-      <item index="2" class="java.lang.String" itemvalue="Python.run_all_test" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.run_all_case" />
+      <item index="1" class="java.lang.String" itemvalue="Python.run_all_test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.run_all_case (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.loger" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in test_login.py" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.run_all_test" />
-        <item index="1" class="java.lang.String" itemvalue="Python.run_all_case" />
-        <item index="2" class="java.lang.String" itemvalue="Python.log" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.run_all_case (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_login.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python.loger" />
+        <item index="3" class="java.lang.String" itemvalue="Python.run_all_test" />
+        <item index="4" class="java.lang.String" itemvalue="Python.run_all_case" />
       </list>
     </recent_temporary>
   </component>
@@ -470,8 +490,49 @@
       <option name="project" value="LOCAL" />
       <updated>1521443976364</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="1">
+      <created>1521447146502</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1521447146502</updated>
+    </task>
+    <task id="LOCAL-00014" summary="1">
+      <created>1521447217406</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1521447217406</updated>
+    </task>
+    <task id="LOCAL-00015" summary="1">
+      <created>1521447843732</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1521447843732</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_login_py - 2018.03.19 at 16h 15m 54s.xml">
+      <configuration name="Unittests in test_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_py - 2018.03.19 at 16h 18m 01s.xml">
+      <configuration name="Unittests in test_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_py - 2018.03.19 at 16h 20m 29s.xml">
+      <configuration name="Unittests in test_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_py - 2018.03.19 at 16h 20m 53s.xml">
+      <configuration name="Unittests in test_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_py - 2018.03.19 at 16h 21m 16s.xml">
+      <configuration name="Unittests in test_login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_login_py - 2018.03.19 at 16h 22m 16s.xml">
+      <configuration name="Unittests in test_login.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -480,10 +541,10 @@
       <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32833788" sideWeight="0.50287354" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32833788" sideWeight="0.49712643" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833788" sideWeight="0.50287354" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833788" sideWeight="0.49712643" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970026" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833788" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.65803814" sideWeight="0.49712643" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -543,12 +604,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1" />
     <MESSAGE value="新的报告" />
     <MESSAGE value="添加发送邮件" />
     <MESSAGE value="添加标签" />
     <MESSAGE value="测试发送邮件" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试发送邮件" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -666,6 +728,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lianxi_test_ui/config/config.ini" />
+    <entry file="file://$PROJECT_DIR$/lianxi_test_ui/config/email.ini" />
+    <entry file="file://$PROJECT_DIR$/lianxi_test_ui/run_all_case.py" />
+    <entry file="file://$PROJECT_DIR$/lianxi_test_ui/page/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/syxz/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/syxz/case/test_01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -674,21 +755,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lianxi_test_ui/config/config.ini" />
-    <entry file="file://$PROJECT_DIR$/lianxi_test_ui/config/email.ini" />
-    <entry file="file://$PROJECT_DIR$/lianxi_test_ui/run_all_case.py" />
     <entry file="file://$PROJECT_DIR$/syxz/run_all_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
-          <caret line="91" column="26" lean-forward="false" selection-start-line="91" selection-start-column="26" selection-end-line="91" selection-end-column="26" />
+          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lianxi_test_ui/page/login.py">
+    <entry file="file://C:/Python35/Lib/unittest/loader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="155">
+          <caret line="152" column="0" lean-forward="false" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianxi_ui_interface/page/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianxi_ui_interface/run_all_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1765">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianxi_ui_interface/case/xinzhi/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lianxi_ui_interface/common/loger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
           <folding />
         </state>
       </provider>
