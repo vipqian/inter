@@ -10,7 +10,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.select import Select
 from selenium.webdriver.support import expected_conditions as EC
-from test_ui.common.loger import logger
+from ui.common.log import logger
 
 log = logger
 log.info('测试开始')

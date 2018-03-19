@@ -11,7 +11,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.common.exceptions import *
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.select import Select
-import time
+# import time
 
 
 def browser(browser='firefox'):

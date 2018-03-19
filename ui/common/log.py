@@ -16,7 +16,6 @@ if not os.path.exists(log_path):os.mkdir(log_path)
 logname = os.path.join(log_path, '%s.log' % time.strftime('%Y_%m_%d'))
 
 
-
 class LogSignleton(object):
     def __init__(self, log_config):
         pass
