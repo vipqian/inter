@@ -34,7 +34,7 @@ class ReadExcel():
             return r
 
 if __name__ == '__main__':
-    excelpath = r"F:\automation\ui\common\password.xlsx"
-    sheet = "Sheet1"
+    excelpath = r"F:\automation\ui\parameterization\password.xlsx"
+    sheet = "Sheet2"
     data = ReadExcel(excelpath, sheet).data_list()
     print(data)
