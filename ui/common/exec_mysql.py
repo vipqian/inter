@@ -19,7 +19,6 @@ else:
     user = conf.get('mysql', 'user')
     passwd = conf.get('mysql', 'passwd')
     db = conf.get('mysql', 'db')
-# print(host, port, user, passwd, db)
 mutex.release()
 
 
@@ -100,15 +99,34 @@ class ExecMysql():
             connect.close()
 
 
-if __name__ == '__main__':
+def fun_select():
     a = ExecMysql()
     sql = "SELECT * FROM trade;"
-    sql1 = "INSERT INTO trade(user, account) VALUE ('zhang', '1445123');"
-    sql2 = "SHOW TABLES;"
-    a.insert_mysql(sql1)
-    b = a.select_mysql(sql2)
+    b = a.select_mysql(sql)
     for i in b:
         print(i)
 
+if __name__ == '__main__':
+    mysql = ExecMysql()
+    #查询
+    select_sql = "SELECT * FROM trade;"
+    result = mysql.select_mysql(select_sql) #得到的为元组
+    for i in result:
+        print(i)
+    print('-' * 100)
+    # 插入数据
+    insert_sql = "INSERT INTO trade(user, account) VALUE ('cai23', '1234');"
+    mysql.insert_mysql(insert_sql)
+    fun_select()
+    print('-'*100)
+    # 更新数据
+    update_sql = "UPDATE trade SET user='fei' WHERE id=32;"
+    mysql.update_mysql(update_sql)
+    fun_select()
+    print('-' * 100)
+    #删除数据
+    delete_sql = "DELETE FROM trade WHERE id=32;"
+    mysql.delete_mysql(delete_sql)
+    fun_select()
 
 
