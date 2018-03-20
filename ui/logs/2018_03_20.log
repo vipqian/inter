@@ -1,0 +1,16 @@
+2018-03-20 14:04:56,306 exec_mysql.py[line: 41] INFO: 'ExecMysql' object has no attribute 'cursor'
+2018-03-20 14:05:13,926 exec_mysql.py[line: 41] INFO: 'ExecMysql' object has no attribute 'cursor'
+2018-03-20 14:06:28,924 exec_mysql.py[line: 34] INFO: (2003, "Can't connect to MySQL server on 'localhost' ([Errno 10109] getaddrinfo failed)")
+2018-03-20 14:06:28,924 exec_mysql.py[line: 43] INFO: 'NoneType' object has no attribute 'execute'
+2018-03-20 14:06:47,209 exec_mysql.py[line: 34] INFO: (2003, "Can't connect to MySQL server on '127.0.0.1' ([Errno 10109] getaddrinfo failed)")
+2018-03-20 14:06:47,210 exec_mysql.py[line: 43] INFO: 'NoneType' object has no attribute 'execute'
+2018-03-20 14:10:25,561 exec_mysql.py[line: 35] INFO: (2003, "Can't connect to MySQL server on '127.0.0.1' ([Errno 10109] getaddrinfo failed)")
+2018-03-20 14:11:08,737 exec_mysql.py[line: 35] INFO: (2003, "Can't connect to MySQL server on 'localhost' ([Errno 10109] getaddrinfo failed)")
+2018-03-20 14:45:21,089 exec_mysql.py[line: 28] INFO: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'id=2' at line 1")
+2018-03-20 14:51:28,550 exec_mysql.py[line: 29] INFO: 'ExecMysql' object has no attribute 'corsur'
+2018-03-20 14:51:53,832 exec_mysql.py[line: 29] INFO: 'NoneType' object has no attribute 'execute'
+2018-03-20 14:52:05,924 exec_mysql.py[line: 29] INFO: 'NoneType' object has no attribute 'execute'
+2018-03-20 16:01:52,814 exec_mysql.py[line: 61] INFO: (1045, "Access denied for user 'fei'@'localhost' (using password: YES)")
+2018-03-20 16:02:56,024 exec_mysql.py[line: 61] INFO: (1044, "Access denied for user 'root'@'localhost' to database 'information_schema'")
+2018-03-20 16:09:59,128 test_alert.py[line: 25] INFO: 测试开始
+2018-03-20 16:10:00,549 test_alert.py[line: 29] INFO: 测试结束
