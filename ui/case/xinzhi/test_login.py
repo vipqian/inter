@@ -7,7 +7,7 @@ brief:
 
 import unittest
 from ui.page.login import LoginPage, browser, login_url
-from ui.common.readexcel import ReadExcel
+from ui.common.read_excel import ReadExcel
 import ddt
 from ui.common.log import logger
 
