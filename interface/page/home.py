@@ -58,9 +58,42 @@ class HomePage():
             self.log.info(str(msg))
             raise
 
+    def tool(self):
+        try:
+            url = "https://api.100szy.com/index.php"
+
+            headers = {
+                "Accept": "application / json, text / plain, * / *",
+                "User - Agent": "Mozilla / 5.0(Windows NT 10.0;WOW64) AppleWebKit / 537.36(KHTML, likeGecko)"
+                                " Chrome / 64.0.3282.140Safari / 537.36",
+                }
+
+            display_data = {
+                "v": "dev3.1.2",
+                "a": "kjact",
+                "apptype": "android",
+                "c": "activity",
+                "signature": "0a71f42c70cc524a27f017c61ad32910",
+                "key": "6df1952c63a6db39edc3ec1bb9d3da9f",
+                "token": "4822418990379df9ad0b503b458bb088",
+                "timestamp": "1521797999",
+                "uid": "33FC869B-6CFFDC0DC036",
+                "noncestr": "ec2157b0-b459-49af-9efd-90ae4bbdd1d8",
+                "only_phone_model": "ae6e80d2-50f2-4af5-8d4b-e542387fc8a1",
+            }
+
+            r = self.s.get(url, headers=headers, params=display_data, verify=True)
+            print(r.url)
+            print("-"*100)
+            print(r.json())
+        except Exception as msg:
+            self.log.info(msg)
+
 if __name__ == '__main__':
     s = requests.session()
     home = HomePage(s)
     home.get_login()
     home.login()
+    home.tool()
+
 
