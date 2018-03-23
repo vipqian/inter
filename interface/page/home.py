@@ -34,9 +34,8 @@ class HomePage():
                           "referrer = http % 3A % 2F % 2Fdev.100szy.com % 2F"
 
             }
-            r = self.s.get(url, headers=headers, verify=False)
+            r = self.s.get(url, headers=headers, verify=True)
             result = r.json()
-            print(result)
             return result
         except Exception as msg:
             self.log.info(str(msg))
@@ -52,9 +51,8 @@ class HomePage():
                 "Cookie": "PHPSESSID=sl79emtbo6b0091f5bshk9umj7; referrer=http%3A%2F%2Fdev.100szy.com%2F"
             }
 
-            r = self.s.get(url, headers=headers, verify=False)
+            r = self.s.get(url, headers=headers, verify=True)
             result = r.json()
-            print(result)
             return result
         except Exception as msg:
             self.log.info(str(msg))
@@ -65,3 +63,4 @@ if __name__ == '__main__':
     home = HomePage(s)
     home.get_login()
     home.login()
+

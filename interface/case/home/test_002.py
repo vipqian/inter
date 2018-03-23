@@ -20,9 +20,10 @@ class Test(unittest.TestCase):
         """测试登录测试"""
         try:
             result = self.blog.login()
-            print(result)
+            self.assertTrue(result['success'])
         except Exception as msg:
             self.log.info(str(msg))
+            raise
 
 if __name__ == '__main__':
     unittest.main()

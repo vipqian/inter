@@ -25,7 +25,7 @@ class Home(unittest.TestCase):
     def test_get_login(self):
         try:
             result = HomePage(self.s).get_login()
-            self.assertTrue(result['info'])
+            self.assertFalse(result['info'])
         except Exception as msg:
             self.log.info(str(msg))
             raise
