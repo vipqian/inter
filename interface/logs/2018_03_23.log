@@ -1,0 +1,14 @@
+2018-03-23 14:42:30,752 login.py[line: 52] INFO: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:646)
+2018-03-23 14:42:30,752 login.py[line: 52] INFO: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:646)
+2018-03-23 14:42:30,753 test_add.py[line: 13] INFO: -----test start add ------
+2018-03-23 14:42:30,753 test_add.py[line: 13] INFO: -----test start add ------
+2018-03-23 14:42:30,754 test_add.py[line: 15] INFO: -----test end add---------
+2018-03-23 14:42:30,754 test_add.py[line: 15] INFO: -----test end add---------
+2018-03-23 14:42:30,835 test_home.py[line: 30] INFO: False is not true
+2018-03-23 14:42:30,835 test_home.py[line: 30] INFO: False is not true
+2018-03-23 14:42:58,909 test_add.py[line: 13] INFO: -----test start add ------
+2018-03-23 14:42:58,909 test_add.py[line: 13] INFO: -----test start add ------
+2018-03-23 14:42:58,909 test_add.py[line: 15] INFO: -----test end add---------
+2018-03-23 14:42:58,909 test_add.py[line: 15] INFO: -----test end add---------
+2018-03-23 14:42:59,022 test_home.py[line: 30] INFO: False is not true
+2018-03-23 14:42:59,022 test_home.py[line: 30] INFO: False is not true
