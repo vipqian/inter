@@ -1,6 +1,0 @@
-2018-03-23 14:47:01,351 test_add.py[line: 13] INFO: -----test start add ------
-2018-03-23 14:47:01,351 test_add.py[line: 13] INFO: -----test start add ------
-2018-03-23 14:47:01,352 test_add.py[line: 15] INFO: -----test end add---------
-2018-03-23 14:47:01,352 test_add.py[line: 15] INFO: -----test end add---------
-2018-03-23 14:47:01,444 test_home.py[line: 30] INFO: False is not true
-2018-03-23 14:47:01,444 test_home.py[line: 30] INFO: False is not true
