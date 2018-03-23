@@ -17,7 +17,6 @@ log_path = os.path.join(os.path.dirname(cur_path), 'logs')
 # 如果不存在这个logs文件夹，就自动创建一个
 if not os.path.exists(log_path):os.mkdir(log_path)
 logname = os.path.join(log_path, '%s.log' % time.strftime('%Y_%m_%d'))
-print(logname)
 
 
 class LogSignleton(object):
@@ -66,6 +65,6 @@ class LogSignleton(object):
             self.logger.addHandler(rt_file_handler)
             self.logger.setLevel(self.log_level_in_logfile)
 
-logsignleton = LogSignleton(r'F:\aaaa\syxz\config\config.ini')
+logsignleton = LogSignleton(r'F:\automation\interface/config/config.ini')
 logger = logsignleton.get_logger()
 

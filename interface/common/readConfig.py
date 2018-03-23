@@ -2,7 +2,7 @@
 
 import os
 import configparser
-cur_path = os.path.dirname(os.path.realpath(__file__))
+cur_path = os.path.join(os.path.abspath(os.path.join(os.path.dirname(os.path.realpath(__file__)), '..')), 'config')
 configPath = os.path.join(cur_path, "cfg.ini")
 conf = configparser.ConfigParser()
 conf.read(configPath, encoding='UTF-8')
