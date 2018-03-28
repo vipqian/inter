@@ -19,7 +19,7 @@ from interface.common import readConfig
 cur_path = os.path.dirname(os.path.realpath(__file__))
 
 
-def add_case(caseName = "case", rule = "test*.py"):
+def add_case(caseName = "ok_power", rule = "test*.py"):
     """用discover方法加载所有的测试用例"""
     case_path = os.path.join(cur_path, caseName)        #用例文件夹
     # 如果不存在就自动创建一个
