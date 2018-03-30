@@ -1,0 +1,6 @@
+2018-03-26 11:34:48,850 test_alert.py[line: 25] INFO: 测试开始
+2018-03-26 11:36:13,889 test_alert.py[line: 29] INFO: 测试结束
+2018-03-26 11:44:46,019 test_alert.py[line: 25] INFO: 测试开始
+2018-03-26 11:44:47,440 test_alert.py[line: 29] INFO: 测试结束
+2018-03-26 11:45:26,637 test_alert.py[line: 25] INFO: 测试开始
+2018-03-26 11:45:27,932 test_alert.py[line: 29] INFO: 测试结束

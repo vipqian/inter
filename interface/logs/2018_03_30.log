@@ -1,0 +1,90 @@
+2018-03-30 09:50:30,694 test_home.py[line: 63] INFO: {'result': '成功 请求过于频繁', 'mobile': '13944096337'}
+2018-03-30 09:50:30,847 test_home.py[line: 63] INFO: {'result': '无效手机号', 'mobile': '13944'}
+2018-03-30 09:50:30,856 test_home.py[line: 45] INFO: {'password': '123456', 'result': '无效手机号', 'mobile': '1', 'code': '440'}
+2018-03-30 09:50:30,870 test_home.py[line: 45] INFO: {'password': '123456', 'result': '验证码错误', 'mobile': '13944096337', 'code': '445'}
+2018-03-30 09:50:58,498 test_home.py[line: 63] INFO: {'result': '成功 请求过于频繁', 'mobile': '13944096337'}
+2018-03-30 09:50:58,606 test_home.py[line: 63] INFO: {'result': '无效手机号', 'mobile': '13944'}
+2018-03-30 09:50:58,618 test_home.py[line: 45] INFO: {'password': '123456', 'result': '无效手机号', 'code': '440', 'mobile': '1'}
+2018-03-30 09:50:58,632 test_home.py[line: 45] INFO: {'password': '123456', 'result': '验证码错误', 'code': '445', 'mobile': '13944096337'}
+2018-03-30 09:51:44,797 test_home.py[line: 63] INFO: {'mobile': '13944096337', 'result': '成功 请求过于频繁'}
+2018-03-30 09:51:44,904 test_home.py[line: 63] INFO: {'mobile': '13944', 'result': '无效手机号'}
+2018-03-30 09:51:44,916 test_home.py[line: 45] INFO: {'mobile': '1', 'result': '无效手机号', 'password': '123456', 'code': '440'}
+2018-03-30 09:51:44,931 test_home.py[line: 45] INFO: {'mobile': '13944096337', 'result': '验证码错误', 'password': '123456', 'code': '445'}
+2018-03-30 09:52:08,275 test_home.py[line: 62] INFO: {'result': '成功 请求过于频繁', 'mobile': '13944096337'}
+2018-03-30 09:52:08,384 test_home.py[line: 62] INFO: {'result': '无效手机号', 'mobile': '13944'}
+2018-03-30 09:52:08,394 test_home.py[line: 44] INFO: {'result': '无效手机号', 'password': '123456', 'mobile': '1', 'code': '440'}
+2018-03-30 09:52:08,407 test_home.py[line: 44] INFO: {'result': '验证码错误', 'password': '123456', 'mobile': '13944096337', 'code': '445'}
+2018-03-30 09:54:16,944 test_home.py[line: 63] INFO: {'mobile': '13944096337', 'result': '成功 请求过于频繁'}
+2018-03-30 09:54:16,968 test_home.py[line: 63] INFO: {'mobile': '13944', 'result': '无效手机号'}
+2018-03-30 09:54:16,979 test_home.py[line: 45] INFO: {'result': '无效手机号', 'mobile': '1', 'password': '123456', 'code': '440'}
+2018-03-30 09:54:16,995 test_home.py[line: 45] INFO: {'result': '验证码错误', 'mobile': '13944096337', 'password': '123456', 'code': '445'}
+2018-03-30 09:55:56,623 test_home.py[line: 63] INFO: {'mobile': '13944096337', 'result': '成功 请求过于频繁'}
+2018-03-30 09:55:56,641 test_home.py[line: 63] INFO: {'mobile': '13944', 'result': '无效手机号'}
+2018-03-30 09:55:56,649 test_home.py[line: 45] INFO: {'password': '123456', 'mobile': '1', 'result': '无效手机号', 'code': '440'}
+2018-03-30 09:55:56,661 test_home.py[line: 45] INFO: {'password': '123456', 'mobile': '13944096337', 'result': '验证码错误', 'code': '445'}
+2018-03-30 09:56:06,583 test_home.py[line: 63] INFO: {'result': '成功 请求过于频繁', 'mobile': '13944096337'}
+2018-03-30 09:56:06,604 test_home.py[line: 63] INFO: {'result': '无效手机号', 'mobile': '13944'}
+2018-03-30 09:56:06,614 test_home.py[line: 45] INFO: {'code': '440', 'result': '无效手机号', 'password': '123456', 'mobile': '1'}
+2018-03-30 09:56:06,626 test_home.py[line: 45] INFO: {'code': '445', 'result': '验证码错误', 'password': '123456', 'mobile': '13944096337'}
+2018-03-30 09:56:06,652 test_home.py[line: 34] INFO: 无效手机号
+2018-03-30 09:56:06,665 test_home.py[line: 34] INFO: 验证码错误
+2018-03-30 09:56:36,274 test_home.py[line: 63] INFO: {'mobile': '13944096337', 'result': '成功 请求过于频繁'}
+2018-03-30 09:56:36,294 test_home.py[line: 63] INFO: {'mobile': '13944', 'result': '无效手机号'}
+2018-03-30 09:56:36,304 test_home.py[line: 45] INFO: {'mobile': '1', 'code': '440', 'result': '无效手机号', 'password': '123456'}
+2018-03-30 09:56:36,317 test_home.py[line: 45] INFO: {'mobile': '13944096337', 'code': '445', 'result': '验证码错误', 'password': '123456'}
+2018-03-30 09:56:36,342 test_home.py[line: 34] INFO: 无效手机号 {'mobile': '123', 'result': '无效手机号', 'password': '123456'}
+2018-03-30 09:56:36,356 test_home.py[line: 34] INFO: 验证码错误 {'mobile': '13944096337', 'result': '验证码错误', 'password': '111111'}
+2018-03-30 09:57:20,428 test_home.py[line: 63] INFO: {'result': '成功 请求过于频繁', 'mobile': '13944096337'}
+2018-03-30 09:57:20,446 test_home.py[line: 63] INFO: {'result': '无效手机号', 'mobile': '13944'}
+2018-03-30 09:57:20,456 test_home.py[line: 45] INFO: {'result': '无效手机号', 'code': '440', 'mobile': '1', 'password': '123456'}
+2018-03-30 09:57:20,468 test_home.py[line: 45] INFO: {'result': '验证码错误', 'code': '445', 'mobile': '13944096337', 'password': '123456'}
+2018-03-30 09:57:20,493 test_home.py[line: 34] INFO: 无效手机号 {'result': '无效手机号', 'mobile': '123', 'password': '123456'}
+2018-03-30 09:57:20,506 test_home.py[line: 34] INFO: 验证码错误 {'result': '验证码错误', 'mobile': '13944096337', 'password': '111111'}
+2018-03-30 09:58:47,227 test_home.py[line: 63] INFO: {'mobile': '13944096337', 'result': '成功 请求过于频繁'}
+2018-03-30 09:58:47,243 test_home.py[line: 63] INFO: {'mobile': '13944', 'result': '无效手机号'}
+2018-03-30 09:58:47,252 test_home.py[line: 45] INFO: {'mobile': '1', 'result': '无效手机号', 'password': '123456', 'code': '440'}
+2018-03-30 09:58:47,264 test_home.py[line: 45] INFO: {'mobile': '13944096337', 'result': '验证码错误', 'password': '123456', 'code': '445'}
+2018-03-30 09:58:47,288 test_home.py[line: 34] INFO: 结果：无效手机号 
+ 测试数据： {'mobile': '123', 'result': '无效手机号', 'password': '123456'}
+2018-03-30 09:58:47,301 test_home.py[line: 34] INFO: 结果：验证码错误 
+ 测试数据： {'mobile': '13944096337', 'result': '验证码错误', 'password': '111111'}
+2018-03-30 10:00:38,356 test_home.py[line: 63] INFO: {'result': '成功 请求过于频繁', 'mobile': '13944096337'}
+2018-03-30 10:00:38,374 test_home.py[line: 63] INFO: {'result': '无效手机号', 'mobile': '13944'}
+2018-03-30 10:00:38,385 test_home.py[line: 45] INFO: {'result': '无效手机号', 'password': '123456', 'mobile': '1', 'code': '440'}
+2018-03-30 10:00:38,399 test_home.py[line: 45] INFO: {'result': '验证码错误', 'password': '123456', 'mobile': '13944096337', 'code': '445'}
+2018-03-30 10:00:38,425 test_home.py[line: 34] INFO: 
+结果：无效手机号 
+ 测试数据： {'result': '无效手机号', 'mobile': '123', 'password': '123456'}
+2018-03-30 10:00:38,439 test_home.py[line: 34] INFO: 
+结果：验证码错误 
+ 测试数据： {'result': '验证码错误', 'mobile': '13944096337', 'password': '111111'}
+2018-03-30 10:00:58,579 test_home.py[line: 63] INFO: {'mobile': '13944096337', 'result': '成功 请求过于频繁'}
+2018-03-30 10:00:58,602 test_home.py[line: 63] INFO: {'mobile': '13944', 'result': '无效手机号'}
+2018-03-30 10:00:58,613 test_home.py[line: 45] INFO: {'code': '440', 'mobile': '1', 'password': '123456', 'result': '无效手机号'}
+2018-03-30 10:00:58,627 test_home.py[line: 45] INFO: {'code': '445', 'mobile': '13944096337', 'password': '123456', 'result': '验证码错误'}
+2018-03-30 10:00:58,653 test_home.py[line: 34] INFO: 
+结果：无效手机号 
+测试数据： {'mobile': '123', 'password': '123456', 'result': '无效手机号'}
+2018-03-30 10:00:58,667 test_home.py[line: 34] INFO: 
+结果：验证码错误 
+测试数据： {'mobile': '13944096337', 'password': '111111', 'result': '验证码错误'}
+2018-03-30 18:20:14,832 test_home.py[line: 63] INFO: {'result': '成功 请求过于频繁', 'mobile': '13944096337'}
+2018-03-30 18:20:14,857 test_home.py[line: 63] INFO: {'result': '无效手机号', 'mobile': '13944'}
+2018-03-30 18:20:14,868 test_home.py[line: 45] INFO: {'password': '123456', 'code': '440', 'result': '无效手机号', 'mobile': '1'}
+2018-03-30 18:20:14,882 test_home.py[line: 45] INFO: {'password': '123456', 'code': '445', 'result': '验证码错误', 'mobile': '13944096337'}
+2018-03-30 18:20:14,908 test_home.py[line: 34] INFO: 
+结果：无效手机号 
+测试数据： {'password': '123456', 'result': '无效手机号', 'mobile': '123'}
+2018-03-30 18:20:14,921 test_home.py[line: 34] INFO: 
+结果：验证码错误 
+测试数据： {'password': '111111', 'result': '验证码错误', 'mobile': '13944096337'}
+2018-03-30 18:20:23,828 test_home.py[line: 63] INFO: {'result': '成功 请求过于频繁', 'mobile': '13944096337'}
+2018-03-30 18:20:23,845 test_home.py[line: 63] INFO: {'result': '无效手机号', 'mobile': '13944'}
+2018-03-30 18:20:23,854 test_home.py[line: 45] INFO: {'result': '无效手机号', 'code': '440', 'password': '123456', 'mobile': '1'}
+2018-03-30 18:20:23,865 test_home.py[line: 45] INFO: {'result': '验证码错误', 'code': '445', 'password': '123456', 'mobile': '13944096337'}
+2018-03-30 18:20:23,888 test_home.py[line: 34] INFO: 
+结果：无效手机号 
+测试数据： {'result': '无效手机号', 'password': '123456', 'mobile': '123'}
+2018-03-30 18:20:23,901 test_home.py[line: 34] INFO: 
+结果：验证码错误 
+测试数据： {'result': '验证码错误', 'password': '111111', 'mobile': '13944096337'}
