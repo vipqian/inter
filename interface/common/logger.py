@@ -24,7 +24,7 @@ class LogSignleton(object):
         pass
 
     def __new__(cls, log_config):
-        mutex=threading.Lock()
+        mutex = threading.Lock()
         mutex.acquire() # 上锁，防止多线程下出问题
         if not hasattr(cls, 'instance'):
             cls.instance = super(LogSignleton, cls).__new__(cls)
