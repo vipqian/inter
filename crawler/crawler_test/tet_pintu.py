@@ -42,7 +42,7 @@ class PinTu(BaseCrawler):
 
     def save_data(self, dataset):
         for data in dataset:
-            self.redis_client.lpush('pintu', data)
+            self.redis_client.sadd('pintu2', data)
 
 
 if __name__ == '__main__':
@@ -50,11 +50,3 @@ if __name__ == '__main__':
     pt = PinTu()
     url = "https://www.pintu360.com/"
     pt.run(url)
-
-
-
-
-
-
-
-
