@@ -12,8 +12,8 @@ import unittest
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-from interface.common.HTMLTestRunner_jpg import HTMLTestRunner
-from interface.common import readConfig
+# from interface.common.HTMLTestRunner_jpg import HTMLTestRunner
+# from interface.common import readConfig
 
 # 当前脚本的真是路径
 cur_path = os.path.dirname(os.path.realpath(__file__))
